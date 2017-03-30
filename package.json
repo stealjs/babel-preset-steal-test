@@ -1,0 +1,22 @@
+{
+  "name": "babel-preset-steal-test",
+  "version": "0.0.1",
+  "description": "Dummy babel preset used for StealJS testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stealjs/babel-preset-steal-test.git"
+  },
+  "author": "Bitovi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stealjs/babel-preset-steal-test/issues"
+  },
+  "homepage": "https://github.com/stealjs/babel-preset-steal-test#readme",
+  "dependencies": {
+    "babel-plugin-steal-test": "0.0.2"
+  }
+}
